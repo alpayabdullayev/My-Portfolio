@@ -1,0 +1,53 @@
+[
+    {
+        "My_skillsin_idsi": 1,
+        "My_skillsin_adi" : " ",
+        "My_skillsin_infosu" : "HTML 5 ",
+        "My_skills_linki" : "Read More",
+        "ImgUrl" : "https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png"
+    },
+
+    {
+        "My_skillsin_idsi": 2,
+        "My_skillsin_adi" : " ",
+        "My_skillsin_infosu" : " CSS 3",
+        "My_skills_linki" : "Read More",
+        "ImgUrl" : "https://camo.githubusercontent.com/47d2ed6fb969bed0234e4aebddcd96b16ab4ae78ca3b665f7f881e6d0dfe7ab2/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323031372f30382f30352f31312f31362f6c6f676f2d323538323734375f3634302e706e67"
+    },
+    {
+        "My_skillsin_idsi": 2,
+        "My_skillsin_adi" : " ",
+        "My_skillsin_infosu" : "Sass",
+        "My_skills_linki" : "Read More",
+        "ImgUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/800px-Sass_Logo_Color.svg.png"
+    },
+
+
+    {
+        "My_skillsin_idsi": 3,
+        "My_skillsin_adi" : " ",
+        "My_skillsin_infosu" : "Bootstrap 5",
+        "My_skills_linki" : "Read More",
+        "ImgUrl" : "https://camo.githubusercontent.com/84746920d1a9906680c387b3cc8753ee842e996fc8915abd295011e15b594b74/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e312f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"
+    },
+
+    {
+        "My_skillsin_idsi": 2,
+        "My_skillsin_adi" : " ",
+        "My_skillsin_infosu" : "JavaScript",
+        "My_skills_linki" : "Read More",
+        "ImgUrl" : "https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png"
+    },
+
+    {
+        "My_skillsin_idsi": 2,
+        "My_skillsin_adi" : "",
+        "My_skillsin_infosu" : "ReactJS",
+        "My_skills_linki" : "Read More",
+        "ImgUrl" : "https://nextsoftware.io/files/images/logos/main/reactjs-logo.png"
+    }
+
+
+
+
+]

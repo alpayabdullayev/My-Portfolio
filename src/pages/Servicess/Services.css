@@ -1,0 +1,30 @@
+/* #horizontal {
+    padding: 100px 0;
+}
+
+.horizontal__content {
+    display: flex;
+}
+
+.horizontal__item {
+    border: 1px solid #efefef;
+    padding: 200px 150px;
+
+}
+.horizontal__item:not(:last-child) {
+    margin-right: 50px;
+}
+
+.horizontal__num {
+    font-size: 80px;
+    font-weight: 900;
+    font-stretch: condensed;
+    color: #ff98a2;
+} */
+
+.cardolcu{
+   
+    height: 400px;
+}
+
+

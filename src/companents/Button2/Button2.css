@@ -1,0 +1,23 @@
+.btn {
+    padding: 12px 28px;
+    font-weight: 700;
+    
+}
+
+.btn-brand {
+    background-color: var(--color-brand);
+    border-color: var(--color-brand);
+    color: var(--color-base);
+}
+
+.btn-brand:hover,
+.btn-brand:focus {
+    background-color: var(--color-base);
+    color: var(--color-base);
+    border-color: var(--color-brand2);
+}
+
+.alink{
+    color: black !important;
+    background-color: var(--color-base) !important;
+}

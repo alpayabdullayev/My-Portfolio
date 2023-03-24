@@ -1,38 +1,68 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import 'atropos/scss';
+:root {
+    --color-body: #b6cbce;
+    --color-heading: #eef3db;
+    --color-base: #033f47;
+    --color-base2: #022a30;
+    --color-brand: #e0f780;
+    --color-brand2: #deff58;
+    --sidbar-width: 240px;
+    --font-base: "Bai Jamjuree";
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+    background-color: var(--color-base2);
+    color: var(--color-body);
+    font-family: var(--font-base), sans-serif;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1,h2,h3,h4,h5,h6 {
+    color: var(--color-heading);
+    font-weight: 700;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+a {
+    text-decoration: none;
+    color: var(--color-body);
+    transition: all 0.4s ease;
 }
 
-.App-link {
-  color: #61dafb;
+a:hover {
+    color: var(--color-brand);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+img {
+    width: 100%;
 }
+
+.text-brand {
+    color: var(--color-brand);
+}
+
+.bg-base {
+    background-color: var(--color-base);
+}
+
+.full-height {
+    min-height: 100vh;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-bottom: 2px solid rgba(255,255,255, 0.1);
+}
+
+.shadow-effect {
+    transition: all 0.5s;
+}
+
+.shadow-effect:hover {
+    box-shadow: -6px 6px 0 0 var(--color-brand);
+}
+
+

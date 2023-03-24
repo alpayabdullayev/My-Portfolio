@@ -1,0 +1,28 @@
+[
+    {
+        "servisin_idsi": 1,
+        "servisin_adi" : "Front-end Developer",
+        "servisin_infosu" : "HTML5 , CSS3, JS, ReactJS, Boostrap",
+        "servis_linki" : "Read More",
+        "ImgUrl" : "https://s3.amazonaws.com/newblog.psd2html.com/wp-content/uploads/2021/05/27153200/frontend-vs-backend-development-1.png"
+    },
+
+    {
+        "servisin_idsi": 2,
+        "servisin_adi" : "Back-end Developer",
+        "servisin_infosu" : "C#, MS SQL, ASP.NET, JS",
+        "servis_linki" : "Read More",
+        "ImgUrl" : "https://cdn4.iconfinder.com/data/icons/data-science-glyph-1/64/programming-developer-backend-laptop-algorithm-512.png"
+    },
+
+    {
+        "servisin_idsi": 2,
+        "servisin_adi" : "Full Stack Developer",
+        "servisin_infosu" : "Qaqam full",
+        "servis_linki" : "Read More",
+        "ImgUrl" : "https://cdn2.iconfinder.com/data/icons/web-development1-new-color1-1/128/Web_development_-_1_-White_Source-modify-_Color1-18-512.png"
+    }
+
+
+
+]
