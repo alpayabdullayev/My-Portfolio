@@ -7,6 +7,9 @@ const About = () => {
   return (
     
     <>
+
+
+    
     
     <section  className="full-height px-lg-5">
         <div className="container">
